@@ -1,0 +1,147 @@
+[33mcommit 0da44e2b9fb28b814f367bea153cc74e4128c9ac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: unique-stha <unique-shrestha@outlook.com>
+Date:   Sun Nov 17 13:36:35 2024 -0500
+
+    first commit
+
+[1mdiff --git a/__pycache__/util.cpython-311.pyc b/__pycache__/util.cpython-311.pyc[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2f0de93[m
+Binary files /dev/null and b/__pycache__/util.cpython-311.pyc differ
+[1mdiff --git a/clf-data/empty/00000000_00000161.jpg b/clf-data/empty/00000000_00000161.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fd9c849[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000161.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000164.jpg b/clf-data/empty/00000000_00000164.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..bc71c02[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000164.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000179.jpg b/clf-data/empty/00000000_00000179.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..041c731[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000179.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000180.jpg b/clf-data/empty/00000000_00000180.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7590f57[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000180.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000185.jpg b/clf-data/empty/00000000_00000185.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8645896[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000185.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000201.jpg b/clf-data/empty/00000000_00000201.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..284c293[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000201.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000223.jpg b/clf-data/empty/00000000_00000223.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..52d1d19[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000223.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000224.jpg b/clf-data/empty/00000000_00000224.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2112877[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000224.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000271.jpg b/clf-data/empty/00000000_00000271.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4845984[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000271.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000280.jpg b/clf-data/empty/00000000_00000280.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6bc8de3[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000280.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000281.jpg b/clf-data/empty/00000000_00000281.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2d853c6[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000281.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000303.jpg b/clf-data/empty/00000000_00000303.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8b43dd5[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000303.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000319.jpg b/clf-data/empty/00000000_00000319.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f35bdff[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000319.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000335.jpg b/clf-data/empty/00000000_00000335.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c81df9d[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000335.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000341.jpg b/clf-data/empty/00000000_00000341.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..87fd0f2[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000341.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000344.jpg b/clf-data/empty/00000000_00000344.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fb65f08[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000344.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000351.jpg b/clf-data/empty/00000000_00000351.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7a34090[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000351.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000360.jpg b/clf-data/empty/00000000_00000360.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f08ae82[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000360.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000377.jpg b/clf-data/empty/00000000_00000377.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ecf4877[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000377.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000385.jpg b/clf-data/empty/00000000_00000385.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c292f19[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000385.jpg differ
+[1mdiff --git a/clf-data/empty/00000000_00000389.jpg b/clf-data/empty/00000000_00000389.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1052d50[m
+Binary files /dev/null and b/clf-data/empty/00000000_00000389.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000004.jpg b/clf-data/empty/00000010_00000004.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e5343fc[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000004.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000012.jpg b/clf-data/empty/00000010_00000012.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..68e5f3c[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000012.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000026.jpg b/clf-data/empty/00000010_00000026.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9d284fb[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000026.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000029.jpg b/clf-data/empty/00000010_00000029.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f548596[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000029.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000032.jpg b/clf-data/empty/00000010_00000032.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..88131d4[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000032.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000061.jpg b/clf-data/empty/00000010_00000061.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a02295e[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000061.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000072.jpg b/clf-data/empty/00000010_00000072.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6b6c025[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000072.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000089.jpg b/clf-data/empty/00000010_00000089.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..53548ee[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000089.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000091.jpg b/clf-data/empty/00000010_00000091.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e88f048[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000091.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000106.jpg b/clf-data/empty/00000010_00000106.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9854203[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000106.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000129.jpg b/clf-data/empty/00000010_00000129.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4d194f9[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000129.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000131.jpg b/clf-data/empty/00000010_00000131.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d44e417[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000131.jpg differ
+[1mdiff --git a/clf-data/empty/00000010_00000132.jpg b/clf-data/empty/00000010_00000132.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..39da7ce[m
+Binary files /dev/null and b/clf-data/empty/00000010_00000132.jpg differ
+[1mdiff --git a/clf-data/empty/0000
